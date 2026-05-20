@@ -1,0 +1,10 @@
+# PromptCraft-CLI Requirements
+# =============================
+# This project uses ZERO external dependencies!
+# Only Python 3.8+ standard library is required.
+#
+# Installation:
+#   pip install promptcraft-cli
+#
+# Or run directly:
+#   python -m promptcraft
